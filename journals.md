@@ -1,14 +1,10 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2021-11-16 18:15:31 -0700
-categories: jekyll update
+layout: page
+title: Journals
+permalink: /journals/
 ---
 
 
-<!-- </table> -->
-<!-- <h2>2019</h2> -->
-## Title
 <table class="table table-hover">
 
 <tr style="background-color: #ffffd0">
@@ -32,5 +28,3 @@ categories: jekyll update
 </td>
 </tr>
 </table>
-
-Something
