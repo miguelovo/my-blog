@@ -11,6 +11,7 @@ permalink: /conference procedings/
 <td>
     [25]
     <strong>M. A. Ortega-Vazquez</strong>, <u>N. Costilla-Enriquez</u>, E. Ela, A. Tuohy,
+    <span style="color:#4582ec;">Risk-Based Reserve Procurement,</span>
     <p style=color: #4582ec; font-weight: bold;'>Risk-Based Reserve Procurement,</p>
     <div style='color: #4582ec; font-weight: bold; padding-bottom: 0.3em;'>Something</div>
     <p style='color: #4582ec; font-weight: bold; padding-bottom: 0.3em;'>Something2</p>
