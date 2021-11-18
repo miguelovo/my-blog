@@ -10,8 +10,7 @@ permalink: /conference procedings/
 <tr>
 <td>
     [25]
-    <strong>M. A. Ortega-Vazquez</strong>, <u>N. Costilla-Enriquez</u>, E. Ela, A. Tuohy,
-    Risk-Based Reserve Procurement
+    <strong>M. A. Ortega-Vazquez</strong>, <u>N. Costilla-Enriquez</u>, E. Ela, A. Tuohy, Risk-Based Reserve Procurement,
     <em> 2020 International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)</em>, Liege, Belgium, Aug. 18-21, 2020.
     <br />
     [<a href="https://ieeexplore.ieee.org/document/9183585" target="_blank">paper</a>] 
